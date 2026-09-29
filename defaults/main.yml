@@ -1,0 +1,4 @@
+---
+lighthouse_dest: "/var/www/lighthouse"
+lighthouse_port: 80
+nginx_user: "www-data"
